@@ -1,2 +1,2 @@
-# siriuso-front
-Siriuso Frontent Monorepository
+# siriuso-quasar
+Siriuso Quasar Monorepository
